@@ -14,7 +14,7 @@ class MainMenuController {
     val dialog2 = new TextInputDialog("")
 
     dialog2.title = "BREAK THE CODES"
-    dialog2.headerText = "Enter your name:"
+    dialog2.headerText = "Enter Your Name:"
     dialog2.contentText = "Player Name:"
 
     val result = dialog2.showAndWait()
@@ -27,7 +27,7 @@ class MainMenuController {
       case _ =>
         val errorAlert = new Alert(AlertType.Error)
         errorAlert.title = "ERROR"
-        errorAlert.headerText = "INVALID INPUT"
+        errorAlert.headerText = "ACCESS DENIED!"
         errorAlert.contentText = "PLEASE ENTER A VALID NAME!"
         errorAlert.showAndWait()
       //Player canceled the dialog or entered an empty name
