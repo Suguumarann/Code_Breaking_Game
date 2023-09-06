@@ -1,2 +1,2 @@
-# Mastermind-ScalaFX
+# MastermindGame-ScalaFX
  
