@@ -5,7 +5,8 @@
 ![image](https://github.com/suguumarann/MastermindGame-ScalaFX/assets/118104398/3e31d8da-52fa-47f4-90d1-78ea7d11cbc5)
 ![image](https://github.com/suguumarann/MastermindGame-ScalaFX/assets/118104398/17d60363-8ca1-4840-83ab-d335ba3d2c3e)
 ![image](https://github.com/suguumarann/MastermindGame-ScalaFX/assets/118104398/ffb7023d-0324-4bbc-8f2e-c214d0d38360)
-![image](https://github.com/suguumarann/MastermindGame-ScalaFX/assets/118104398/ed52c4c0-07cc-4566-86b1-63853e6e448b)
+![image](https://github.com/suguumarann/MastermindGame-ScalaFX/assets/118104398/7ead21be-eb80-4606-bbed-db123a24a742)
+
 
 
 
